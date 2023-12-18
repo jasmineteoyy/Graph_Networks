@@ -7,5 +7,5 @@
 * Section: 099
 * Instructor: Doris Schioberg
 * Team Members: 
-    * Sally Fang
     * Jasmine (Yin Yin Teo)
+    * Sally Fang
